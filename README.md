@@ -12,7 +12,18 @@ I first encountered this data visualization when I was conducting research to wr
 
 
 
-Feedback
+## Feedback
+
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
+- Did you learn anything interesting from the feedback on your initial design?
+
+Takeaways for Figure #1:  The graph is pretty straightforward. Neither of my interviewees were confused nor surprised being that they are both Black women from the city of Pittsburgh. Both were curious as to who represented “AMLON”, so perhaps I’ll define the racial groups based on the original study. Both interviewees believe the intended audience is the general public. 
+
+Takeaways for Figure #2: I had to explain the context of this figure as opposed to the first one. My poor penmanship and small writing impeded their understanding. The Pittsburgh label was misleading because they thought that only that particular dot was representing the city, so I could maybe distinguish the Pittsburgh indicators as a sub header. I should enlarge the “Worse” and “Better” so that viewers better understand the parameters. They also said adding some color would liven up the graph to make it more visually appealing. One interviewee suggested that I reiterate the per 1000 pregnacies to further define the figures on the y-axis.
 
 
 ## Final Data Visualization
