@@ -12,6 +12,13 @@ The critiquing process allowed me to deconstruct the different aspects of the da
 
 ## Wireframes
 
+### 1
+
+![image](https://user-images.githubusercontent.com/78758958/108661779-b1b2c200-749a-11eb-8559-2bb0810032c2.png)
+
+### 2
+
+![image](https://user-images.githubusercontent.com/78758958/108661795-bd9e8400-749a-11eb-8939-c14f57ef811c.png)
 
 
 ## Feedback
