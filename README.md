@@ -1,5 +1,5 @@
 # Dataviz3.md
-Assignment 3 &amp; 4: Critique by Design
+Critique by Design
 
 ## Original Data Visualization
 *Fetal Mortality Rate, Pittsburgh vs. Peer Cities*
