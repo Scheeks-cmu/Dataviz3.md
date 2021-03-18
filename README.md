@@ -4,7 +4,7 @@ Critique by Design
 ## Original Data Visualization
 *Fetal Mortality Rate, Pittsburgh vs. Peer Cities*
 
-https://www.bloomberg.com/news/articles/2019-09-20/how-pittsburgh-fails-black-women-in-6-charts
+[How Pittsburgh Fails Black Women in 6 Charts](https://www.bloomberg.com/news/articles/2019-09-20/how-pittsburgh-fails-black-women-in-6-charts)
 
 I first encountered this data visualization when I was conducting research to write a policy memo on *Racial Disparities in Maternal Morbidity and Mortality Among Black Women in Pittsburgh* for a class asignment last semester. Throughout my research process, I saw the data reported in paragraph form with very few data visualizations within the articles. Of the sources containing the information, they often recycled the same few data visualizations because the majority derived from one large study conducted by Pittsburgh’s Gender Equity Commission, which highlights the disparate chances for survival for people of color in Pittsburgh, and more specifically for Black women. I chose this particular data visualization because I thought it would be useful to have alternatve visualization options that may highlight aspects of the data in a different way than what is currently available.
 
